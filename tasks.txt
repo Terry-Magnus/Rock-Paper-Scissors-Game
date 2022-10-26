@@ -1,0 +1,9 @@
+// set text color of "play again button to the winner's color"
+--- get selected button color 
+--- set play again button color = selected button color
+// keep position of tiles stable on window resize
+// switch labels in game component on window resize
+--- change flex order in game stylesheet
+// display modal properly while background blurs out
+// Re-position tiles in bonus mode and on window resize
+// change game logo in bonus mode

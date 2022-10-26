@@ -1,0 +1,50 @@
+.scoreboard {
+    border: 5px solid hsl(217, 16%, 45%);
+    border-radius: 10px;
+    margin: 20px auto;
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+
+    @media (max-width: 768px) {
+        width: 80%;
+    }
+
+    img {
+        width: 120px;
+        height: 75px;
+        margin: auto 10px;
+
+        @media (max-width: 500px) {
+            width: 100px;
+            height: 70px;
+        }
+    }
+
+    .scorecard {
+        text-align: center;
+        background: hsla(75, 100%, 98%);
+        width: 100px;
+        height: 80px;
+        margin: 10px;
+        padding-top: 10px;
+        text-transform: uppercase;
+        border: none;
+        border-radius: 10px;
+        color: hsl(229, 64%, 46%);
+        font-weight: 600;
+        letter-spacing: 1.5px;
+
+
+        .score {
+            font-size: 3em;
+            font-weight: 700;
+            color: hsl(229, 25%, 31%);
+        }
+
+        @media (max-width: 500px) {
+            width: 70px;
+            height: 80px;
+        }
+    }
+}
