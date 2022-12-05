@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Terry-Magnus/Rock-Paper-Scissors-Game/static/css/main.633b5fec.css",
-    "main.js": "/Terry-Magnus/Rock-Paper-Scissors-Game/static/js/main.f3d86532.js",
+    "main.js": "/Terry-Magnus/Rock-Paper-Scissors-Game/static/js/main.20179984.js",
     "static/media/image-rules-bonus.svg": "/Terry-Magnus/Rock-Paper-Scissors-Game/static/media/image-rules-bonus.513320fbf32ba9e4a81fba903a77b85f.svg",
     "static/media/logo.svg": "/Terry-Magnus/Rock-Paper-Scissors-Game/static/media/logo.a4a2b39fefcdb6a1a8088c4dba8f3d93.svg",
     "static/media/image-rules.svg": "/Terry-Magnus/Rock-Paper-Scissors-Game/static/media/image-rules.258b753fb6284dc8ae00c5b2fa7938c0.svg",
@@ -15,10 +15,10 @@
     "static/media/bg-pentagon.svg": "/Terry-Magnus/Rock-Paper-Scissors-Game/static/media/bg-pentagon.1ad6d36532b75eb7d82cabe6e8d92aef.svg",
     "static/media/bg-triangle.svg": "/Terry-Magnus/Rock-Paper-Scissors-Game/static/media/bg-triangle.77c6ca418d3751d8f71789234314a8b9.svg",
     "main.633b5fec.css.map": "/Terry-Magnus/Rock-Paper-Scissors-Game/static/css/main.633b5fec.css.map",
-    "main.f3d86532.js.map": "/Terry-Magnus/Rock-Paper-Scissors-Game/static/js/main.f3d86532.js.map"
+    "main.20179984.js.map": "/Terry-Magnus/Rock-Paper-Scissors-Game/static/js/main.20179984.js.map"
   },
   "entrypoints": [
     "static/css/main.633b5fec.css",
-    "static/js/main.f3d86532.js"
+    "static/js/main.20179984.js"
   ]
 }
