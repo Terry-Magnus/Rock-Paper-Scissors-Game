@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Terry-Magnus/Rock-Paper-Scissors-Game/static/css/main.633b5fec.css",
+    "main.js": "/Terry-Magnus/Rock-Paper-Scissors-Game/static/js/main.f3d86532.js",
+    "static/media/image-rules-bonus.svg": "/Terry-Magnus/Rock-Paper-Scissors-Game/static/media/image-rules-bonus.513320fbf32ba9e4a81fba903a77b85f.svg",
+    "static/media/logo.svg": "/Terry-Magnus/Rock-Paper-Scissors-Game/static/media/logo.a4a2b39fefcdb6a1a8088c4dba8f3d93.svg",
+    "static/media/image-rules.svg": "/Terry-Magnus/Rock-Paper-Scissors-Game/static/media/image-rules.258b753fb6284dc8ae00c5b2fa7938c0.svg",
+    "static/media/icon-lizard.svg": "/Terry-Magnus/Rock-Paper-Scissors-Game/static/media/icon-lizard.0f83914cca1adc9454d1.svg",
+    "static/media/icon-paper.svg": "/Terry-Magnus/Rock-Paper-Scissors-Game/static/media/icon-paper.8b57a6b108c1b8ae8293.svg",
+    "index.html": "/Terry-Magnus/Rock-Paper-Scissors-Game/index.html",
+    "static/media/icon-spock.svg": "/Terry-Magnus/Rock-Paper-Scissors-Game/static/media/icon-spock.f4d7eee84cf50913d739.svg",
+    "static/media/icon-scissors.svg": "/Terry-Magnus/Rock-Paper-Scissors-Game/static/media/icon-scissors.3b1a5d7eb0b2f1fd3e95.svg",
+    "static/media/icon-rock.svg": "/Terry-Magnus/Rock-Paper-Scissors-Game/static/media/icon-rock.476e90a9646a87bb3645.svg",
+    "static/media/icon-close.svg": "/Terry-Magnus/Rock-Paper-Scissors-Game/static/media/icon-close.bde602ecd1a4e55e0c27137ed651e027.svg",
+    "static/media/bg-pentagon.svg": "/Terry-Magnus/Rock-Paper-Scissors-Game/static/media/bg-pentagon.1ad6d36532b75eb7d82cabe6e8d92aef.svg",
+    "static/media/bg-triangle.svg": "/Terry-Magnus/Rock-Paper-Scissors-Game/static/media/bg-triangle.77c6ca418d3751d8f71789234314a8b9.svg",
+    "main.633b5fec.css.map": "/Terry-Magnus/Rock-Paper-Scissors-Game/static/css/main.633b5fec.css.map",
+    "main.f3d86532.js.map": "/Terry-Magnus/Rock-Paper-Scissors-Game/static/js/main.f3d86532.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.633b5fec.css",
+    "static/js/main.f3d86532.js"
+  ]
+}
